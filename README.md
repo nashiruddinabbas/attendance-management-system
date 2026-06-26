@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ams.aliatayee.com" target="_blank"><h1>Attendance Management System</h1></a></p>
+<p align="center"><a href="https://odommo.net" target="_blank"><h1>Attendance Management System</h1></a></p>
 
 ## About Attendance Management System
 
@@ -12,12 +12,6 @@ Attendance Management System is a web application based on Laravel which keeps t
 - PHP
 - LARAVEL
 
-## Demo
-<a href="http://ams.alihost.co">Demo link</a> 
-
-  ### Admin credential
-    username:ali@aliatayee.com
-    password:ali123
 
 
 ### Install & Setup
@@ -26,7 +20,7 @@ To setup and install Attendance Management System project, follow the below step
 - Clone this project by the command: 
 
 ```
-$ git clone https://github.com/aliatayee/Attendance_Management_System
+$ git clone https://github.com/nashiruddinabbas/Attendance_Management_System
 ```
 
 - Then switch to the project folder by the bellow query:
@@ -79,10 +73,8 @@ $ php artisan serve
 - Git to versionning your work.
 
 ### Authors
-👤 **Ali**
+👤 **Nashir**
 
-- GitHub: [@aliatayee](https://github.com/aliatayee)
-- Twitter: [@aqaatayee](https://twitter.com/aqaatayee)
 
 
 ## 🤝 Contributing
