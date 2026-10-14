@@ -19,7 +19,6 @@
         
 
 @endsection
-
 @section('content')
 @include('includes.flash')
 <!--Show Validation Errors here-->
