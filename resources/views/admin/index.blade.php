@@ -203,7 +203,6 @@
                         <!-- end row -->
                         
                         
-                        <!-- end row -->
 @endsection
 
 @section('script')
